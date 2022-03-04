@@ -1,0 +1,13 @@
+nav{
+    background-color: rgb(94, 3, 3);
+    padding: 18px;
+    margin: auto;
+}
+
+nav ul{
+    text-align: right;
+}
+
+ .btnNav{
+    border-radius: 5px;
+} 
